@@ -166,7 +166,7 @@ hr.small {
     position: relative;
     width: 100%;
     height: 100%;
-    background: url(../img/brains.jpg) no-repeat center center scroll;
+    background: url(../img/nyc_sky.png) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -195,6 +195,7 @@ hr.small {
 /* Services */
 
 .services {
+    background: #eab033;
     padding: 50px 0;
 	font-family: 'Comfortaa', cursive;
 }
@@ -212,25 +213,11 @@ hr.small {
     margin-bottom: 30px;
 }
 
-/* Callout */
-
-.callout {
-    display: table;
-    width: 100%;
-    height: 400px;
-    color: #fff;
-    background: url(../img/callout.jpg) no-repeat center center scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-}
-
 
 .location {
     display: table;
     width: 100%;
-    height: 400px;
+    height: 550px;
     color: #000;
     font-family: 'Comfortaa', cursive;
     background: url(../img/location_logo.png) no-repeat center center scroll;
@@ -256,20 +243,7 @@ hr.small {
     height: 400px;
     color: #fff;
     font-family: 'Comfortaa', cursive;
-    background: url(../img/workspace.jpg) no-repeat center center scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-}
-
-.hotel {
-    display: table;
-    width: 100%;
-    height: 400px;
-    color: #fff;
-    font-family: 'Comfortaa', cursive;
-    background: url(../img/hotel.png) no-repeat center center scroll;
+    background: url(../img/city1.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -335,12 +309,6 @@ a:focus, a:hover {
     text-decoration: underline;
 }
 
-
-
-#ohbm_logo {
-	width: 100%;
-	vertical-align: center;
-}
 
 .top5 { margin-top:5px; }
 .top7 { margin-top:7px; }
